@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - clear sky
+  - scattered clouds
+  - few clouds
+  - broken clouds
+  - shower rain
+  - rain
+  - snow
+  - thunderstorm
+  - mist
   layers:
   - Default
   - TransparentFX
